@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:2cycle/2cycle.github.io.git
+	branch = masater
