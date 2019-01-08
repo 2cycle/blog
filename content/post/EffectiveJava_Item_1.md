@@ -1,7 +1,7 @@
 ---
 title: "Effective JAVA 정리 chapter / item 1 "
 date: 2019-01-08T14:53:00+09:00
-Category : ["java" , "effectivejava"]
+Categories : ["java" , "effectivejava"]
 Tags : ["java", "item1", "effectivejava", "study"]
 ---
 
