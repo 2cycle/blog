@@ -1,5 +1,5 @@
 ---
-title: "LinuxCommand_2"
+title: "리눅스 커맨드 v2"
 date: 2019-01-23T18:29:03+09:00
 Categories: ["linux"]
 Tags: ["linuxCommand","crontab"]

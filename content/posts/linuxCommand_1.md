@@ -1,5 +1,5 @@
 ---
-title: "LinuxCommand_1"
+title: "리눅스 커맨드 v1"
 date: 2019-01-23T17:41:10+09:00
 Categories: ["linux"]
 Tags: ["linuxcommand"]

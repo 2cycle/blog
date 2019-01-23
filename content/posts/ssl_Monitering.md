@@ -1,5 +1,5 @@
 ---
-title: "Ssl_Monitering"
+title: "ssl파일 만료일자 모니터링"
 date: 2019-01-23T18:49:00+09:00
 Categories: ["linux"]
 Tags: ["ssl_monitoring","ssl","ssl_expire"]
@@ -7,7 +7,9 @@ Tags: ["ssl_monitoring","ssl","ssl_expire"]
 
 ## SSL 만료 확인
 
-Let's encrypt를 쓰면 자동 연장이 되지만 3개월마다 갱신이 되는 것에 대한 불안감과 1년 내로 사라질 서버들에 대해선 ssl 인증이 만료되는 것을 미리 알기 위해서 간단히 shell script를 만들어서 crontab에 등록해놓았다.
+Let's encrypt를 쓰면 자동 연장이 되지만 3개월마다 갱신이 되는 것에 대한 불안감과 1년 내로 사라질 서버들이기에...
+
+간단히 ssl 인증이 만료되는 것을 방지하기위해 간단히 shell script를 만들어서 crontab에 등록해놓았다.
 
 스크립트는 아주 간단한데
 
