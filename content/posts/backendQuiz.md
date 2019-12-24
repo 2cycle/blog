@@ -3,7 +3,7 @@ title: "BackendQuiz"
 date: 2019-12-25T01:07:16+09:00
 Categories: ["Quiz","Backend"]
 Tags: []
-draft: true
+
 ---
 
 # 면접 대비 10가지 질문 (1 ~ 10)
